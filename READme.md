@@ -35,7 +35,7 @@ Follow these steps to set up and run the project:
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/payment-processor.git
+   git clone git@github.com:yazibshah/Test_Blockchain_laboratories.git
    cd payment-processor
 
 3. **Dependencies**
